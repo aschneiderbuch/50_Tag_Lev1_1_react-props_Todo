@@ -1,0 +1,10 @@
+section {
+  width: 20vw;
+}
+section h2 {
+  color: red;
+}
+section article {
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=HtmlSchablone.css.map */

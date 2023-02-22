@@ -1,12 +1,16 @@
 import './App.css';
+import DatenVerarbeitungMap from './components/datenVerarbeitungMap/DatenVerarbeitungMap';
 
-import Input from './components/input/Input';
+// import Input from './components/input/Input';
 
 function App() {
   return (
     <div className="App">
 
-<Input />
+{/* <Input /> */}
+
+<DatenVerarbeitungMap></DatenVerarbeitungMap>
+
     </div>
   );
 }
