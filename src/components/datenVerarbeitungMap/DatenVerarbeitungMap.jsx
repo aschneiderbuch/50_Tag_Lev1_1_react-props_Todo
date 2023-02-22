@@ -9,7 +9,7 @@ console.log(dataArrayObj2);
 // !!! das ist der wichtige Teil  Array
 // import der HTML Schablone
 const html_befüllt = dataArrayObj2.map( (obj) => {
-   return <HtmlSchablone überschrift={obj.überschrift} id={obj.id} text={obj.text} ></HtmlSchablone>
+   return <HtmlSchablone überschrift={obj.überschrift} id={obj.id} text={obj.text} uuid={obj.uuid}></HtmlSchablone>
 })
 
 console.log(html_befüllt);

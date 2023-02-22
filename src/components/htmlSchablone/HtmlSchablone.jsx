@@ -9,6 +9,7 @@ const HtmlSchablone = (props) => {
             <article>
             <p>{props.id}</p> <p>{props.text}</p>
             </article>
+            <p>{props.uuid}</p>
         </section>
 
      );
