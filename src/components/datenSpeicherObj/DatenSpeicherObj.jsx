@@ -8,11 +8,11 @@ console.log(dataArrayObj);
 
 
 // Datenbank zum Zwischenspeichern der eingaben
-export const dataObj2 = dataObj
+const dataObj2 = dataObj
 
-export const dataArrayObj2 = dataArrayObj
+const dataArrayObj2 = dataArrayObj
 
-
+export { dataObj2, dataArrayObj2 };
 
 export default {dataObj2, dataArrayObj2}
 

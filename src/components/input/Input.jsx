@@ -22,11 +22,11 @@ class Obj {
 }
 
 // Blaupause befüllen 
-export const dataObj = new Obj(überschriftTodo, anzahlTodoArray, textTodoArray);
+ const dataObj = new Obj(überschriftTodo, anzahlTodoArray, textTodoArray);
 console.log(dataObj); // { "0" [5] [5]}
 
 // Blaupause befüllen und Array output
-export const dataArrayObj = [];
+ const dataArrayObj = [];
 for (let i = 0; i < anzahlTodoArray.length; i++){
     const obj_i_runden = new Obj(überschriftTodo, anzahlTodoArray[i], textTodoArray[i]);
     console.log(obj_i_runden)
@@ -51,6 +51,7 @@ const Input = () => {
     );
 }
 
+export {dataObj, dataArrayObj, Input};
 
 export default {Input, dataObj, dataArrayObj};      // da mehrere Sachen zum exportieren, geht das nur mit einem Objekt, deshalb {}
 
