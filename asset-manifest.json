@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/50_Tag_Lev1_1_react-props_Todo/static/css/main.073c9b0a.css",
-    "main.js": "/50_Tag_Lev1_1_react-props_Todo/static/js/main.0af71811.js",
+    "main.css": "/50_Tag_Lev1_1_react-props_Todo/static/css/main.a309556b.css",
+    "main.js": "/50_Tag_Lev1_1_react-props_Todo/static/js/main.7685c9ca.js",
     "static/js/787.dc84f290.chunk.js": "/50_Tag_Lev1_1_react-props_Todo/static/js/787.dc84f290.chunk.js",
-    "static/media/logo.svg": "/50_Tag_Lev1_1_react-props_Todo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/50_Tag_Lev1_1_react-props_Todo/index.html",
-    "main.073c9b0a.css.map": "/50_Tag_Lev1_1_react-props_Todo/static/css/main.073c9b0a.css.map",
-    "main.0af71811.js.map": "/50_Tag_Lev1_1_react-props_Todo/static/js/main.0af71811.js.map",
+    "main.a309556b.css.map": "/50_Tag_Lev1_1_react-props_Todo/static/css/main.a309556b.css.map",
+    "main.7685c9ca.js.map": "/50_Tag_Lev1_1_react-props_Todo/static/js/main.7685c9ca.js.map",
     "787.dc84f290.chunk.js.map": "/50_Tag_Lev1_1_react-props_Todo/static/js/787.dc84f290.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0af71811.js"
+    "static/css/main.a309556b.css",
+    "static/js/main.7685c9ca.js"
   ]
 }
